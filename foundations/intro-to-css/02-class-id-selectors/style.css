@@ -1,0 +1,19 @@
+.para {
+    background-color: #f5bfc1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.para.graph{
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(7, 80, 216);
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
